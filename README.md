@@ -1,2 +1,3 @@
-# web-dev
-Courses i took and sample projects i made during my web development study journey
+# Web Development Journey
+
+These are courses I took and sample projects I made during my web development study journey
